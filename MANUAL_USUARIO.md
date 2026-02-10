@@ -7,7 +7,7 @@
 ---
 
 ## 📋 Índice
-1. [Introducción](#introducción)
+1. [Proposito](#proposito)
 2. [Requisitos del Sistema](#requisitos-del-sistema)
 3. [Instalación Paso a Paso](#instalación-paso-a-paso)
 4. [Inicio de Sesión](#inicio-de-sesión)
@@ -22,7 +22,7 @@
 
 ---
 
-## Introducción
+## Proposito
 
 El **Sistema de Inventario** es una aplicación profesional de escritorio diseñada para gestionar de forma eficiente y segura:
 - ✅ Catálogo completo de productos
